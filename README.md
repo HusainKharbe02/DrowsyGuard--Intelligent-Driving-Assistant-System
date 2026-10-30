@@ -6,9 +6,11 @@
 
 A smart mobile-based driving assistant system that improves road safety by monitoring driving conditions and providing real-time alerts to the driver.
 
----
 
-## 🚀 Features
+Live Demo : https://lnkd.in/e9X4WsJS
+
+
+## Features
 
 - Driver assistance system  
 - Real-time alerts for unsafe conditions  
@@ -16,18 +18,17 @@ A smart mobile-based driving assistant system that improves road safety by monit
 - Monitoring of driving situations (basic logic)  
 - Focus on road safety and awareness  
 
----
 
-## 🛠️ Tech Stack
+
+## Tech Stack
 
 - React Native (Expo)  
 - JavaScript  
 - Expo Router  
 - Mobile UI Components  
 
----
 
-## 📂 Project Structure
+##  Project Structure
 
     IDAS/
     ├── app/          
@@ -35,7 +36,7 @@ A smart mobile-based driving assistant system that improves road safety by monit
     ├── components/   
     ├── package.json  
 
----
+
 
 ## ⚙️ Getting Started
 
@@ -52,7 +53,7 @@ A smart mobile-based driving assistant system that improves road safety by monit
 
 ---
 
-## 📌 Important Note
+##  Important Note
 
 This project is a prototype mobile application:
 
@@ -60,7 +61,7 @@ This project is a prototype mobile application:
 - No hardware-level vehicle connection  
 - Focuses on UI and basic logic  
 
----
+
 
 ## 🔮 Future Improvements
 
@@ -69,8 +70,7 @@ This project is a prototype mobile application:
 - Add backend support  
 - Enhance UI/UX  
 
----
 
-## 👨‍💻 Author
+##  Author
 
-Saad Nadaf
+Saad Nadaf , Husain Kharbe
